@@ -1,8 +1,13 @@
-## Hi there 👋
+## Hi this is my repository 👋
 
 <!--
 **vidhugop/vidhugop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://www.facebook.com/photo/?fbid=10161786942091289&set=a.479228191288">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.facebook.com/photo/?fbid=10161786942091289&set=a.479228191288">
+ <img alt="my-profile-picture" src="https://www.facebook.com/photo/?fbid=10161786942091289&set=a.479228191288">
+</picture>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
